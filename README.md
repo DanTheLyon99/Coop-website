@@ -1,2 +1,2 @@
-# my-site
-My website
+# my coop website	
+A website designed to highlight my first coop term
